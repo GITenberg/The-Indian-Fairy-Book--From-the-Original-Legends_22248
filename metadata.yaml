@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25209
     wikipedia: http://en.wikipedia.org/wiki/Cornelius_Mathews
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22248#The-Indian-Fairy-Book--From-the-Original-Legends
 gutenberg_bookshelf:
 - Folklore
 - Children's Myths, Fairy Tales, etc.
